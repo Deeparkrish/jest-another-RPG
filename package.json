@@ -1,0 +1,29 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deeparkrish/jest-another-RPG.git"
+  },
+  "keywords": [
+    "rpg",
+    "jest"
+  ],
+  "author": "deepa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deeparkrish/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/Deeparkrish/jest-another-RPG#readme",
+  "dependencies": {
+    "src": "^1.1.2"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
