@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Deeparkrish/jest-another-RPG#readme",
   "dependencies": {
+    "inquirer": "^8.1.1",
     "src": "^1.1.2"
   },
   "devDependencies": {
